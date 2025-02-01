@@ -27,7 +27,7 @@ body {
   left: 40px;
   position: relative;
   border-radius: 20px;
-  background-image: red;
+  background-image: linear-gradient(to right, rgb(239, 82, 82) , rgb(243, 243, 103));
 }
 
 .right-side {
